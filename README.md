@@ -79,9 +79,11 @@ plt.title("Customer Segments")
 
 
 y_pred
+
 ![Screenshot 2024-11-11 082234](https://github.com/user-attachments/assets/73fb7ad0-655d-4398-9a01-8cc93ed74e02)
 
 Cluster
+
 ![Screenshot 2024-11-11 082243](https://github.com/user-attachments/assets/ee032f42-a3a6-4431-8985-3812e2fff951)
 
 
